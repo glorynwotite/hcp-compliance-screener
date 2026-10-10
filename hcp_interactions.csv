@@ -1,0 +1,51 @@
+record_id,hcp_npi,hcp_name,specialty,date,nature_of_payment,amount,attendees,hours,venue,rep_name,notes
+R035,1003000001,Dr. Alicia Moreno,Pulmonology,2026-07-07,Meal,980.0,2,,Steakhouse downtown,J. Carter,Dinner after clinic; no presentation given.
+R036,1003000004,Dr. David Levin,Cardiology,2026-07-12,Meal,210.0,2,,Country club golf outing,M. Patel,Round of golf followed by lunch.
+R014,1003000004,Dr. David Levin,Cardiology,2026-09-02,Educational Item,73.08,,,Clinic office,T. Brooks,Anatomical model for patient education.
+R031,1003000007,Dr. Grace Adeyemi,Primary Care,2026-07-13,Meal,207.47,7,,Hospital conference room,J. Carter,Lunch provided with presentation of new safety information.
+R032,1003000008,Dr. Hector Ruiz,Infectious Disease,2026-07-07,Educational Item,23.64,,,Clinic office,J. Carter,Anatomical model for patient education.
+R018,1003000002,Dr. Ben Okafor,Infectious Disease,2026-08-18,Speaker Fee,1200,,4,Hotel meeting room,T. Brooks,Advisory board participation under signed contract; deliverables received.
+R047,1003000003,Dr. Carla Nguyen,Primary Care,2026-07-08,Meal,62.0,3,,Clinic office,J. Carter,Lunch during in-office presentation on approved product label.
+R024,1003000004,Dr. David Levin,Cardiology,2026-07-31,Meal,75.52,2,,Clinic office,J. Carter,Working lunch with clinic staff; reviewed patient support program materials.
+R019,1003000001,Dr. Alicia Moreno,Pulmonology,2026-07-15,Educational Item,66.12,,,Clinic office,S. Kim,Anatomical model for patient education.
+R050,1003000003,Dr. Carla Nguyen,Primary Care,2026-09-03,Meal,65.0,3,,Clinic office,M. Patel,Lunch during in-office presentation on approved product label.
+R042,,Dr. Hector Ruiz,Infectious Disease,2026-08-19,Speaker Fee,900.0,,3,Hotel meeting room,S. Kim,Speaker program on approved indication.
+R025,1003000003,Dr. Carla Nguyen,Primary Care,2026-08-30,Educational Item,35.9,,,Clinic office,M. Patel,Anatomical model for patient education.
+R002,1003000007,Dr. Grace Adeyemi,Primary Care,2026-07-04,Meal,72.85,3,,Medical office,J. Carter,Lunch during in-office presentation on approved product label.
+R045,1003000003,Dr. Carla Nguyen,Primary Care,2026-07-20,Meal,60.0,3,,Clinic office,M. Patel,Lunch during in-office presentation on approved product label.
+R029,1003000004,Dr. David Levin,Cardiology,2026-07-05,Meal,63.76,2,,Hospital conference room,S. Kim,Lunch provided with presentation of new safety information.
+R020,1003000006,Dr. Frank Ito,Pulmonology,2026-08-07,Meal,90.75,3,,Medical office,T. Brooks,Breakfast with care team during disease-state education session.
+R001,1003000002,Dr. Ben Okafor,Infectious Disease,2026-08-05,Meal,65.3,3,,Clinic office,M. Patel,Lunch during in-office presentation on approved product label.
+R040,1003000006,Dr. Frank Ito,Pulmonology,2026-07-08,Consulting Fee,1200.0,,3,Hotel meeting room,M. Patel,Told him we'd keep the consulting work coming as long as his new-start numbers stay strong.
+R028,1003000002,Dr. Ben Okafor,Infectious Disease,2026-07-03,Meal,143.68,6,,Clinic office,M. Patel,Lunch during in-office presentation on approved product label.
+R015,1003000008,Dr. Hector Ruiz,Infectious Disease,2026-08-03,Meal,114.34,3,,Medical office,M. Patel,Breakfast with care team during disease-state education session.
+R010,1003000003,Dr. Carla Nguyen,Primary Care,2026-08-15,Meal,176.46,7,,Medical office,M. Patel,Lunch during in-office presentation on approved product label.
+R049,1003000003,Dr. Carla Nguyen,Primary Care,2026-07-07,Meal,64.0,3,,Clinic office,T. Brooks,Lunch during in-office presentation on approved product label.
+R030,1003000004,Dr. David Levin,Cardiology,2026-07-17,Consulting Fee,600,,2,Hotel meeting room,T. Brooks,Advisory board participation under signed contract; deliverables received.
+R044,1003000004,Dr. David Levin,Cardiology,2026-08-24,Travel,2400.0,,,Beach resort,T. Brooks,Covered flights and resort stay for him and his spouse for the advisory meeting.
+R013,1003000001,Dr. Alicia Moreno,Pulmonology,2026-07-05,Meal,126.15,5,,Clinic office,S. Kim,Breakfast with care team during disease-state education session.
+R009,1003000002,Dr. Ben Okafor,Infectious Disease,2026-08-05,Speaker Fee,1200,,4,Hotel meeting room,T. Brooks,Advisory board participation under signed contract; deliverables received.
+R041,1003000007,Dr. Grace Adeyemi,Primary Care,2026-08-18,Meal,96.0,4,,Clinic office,J. Carter,Lunch. She mentioned she'd switch her patients over if we sponsor her daughter's school fundraiser.
+R011,1003000003,Dr. Carla Nguyen,Primary Care,2026-08-01,Consulting Fee,900,,3,Hotel meeting room,M. Patel,Advisory board participation under signed contract; deliverables received.
+R023,1003000006,Dr. Frank Ito,Pulmonology,2026-07-03,Speaker Fee,900,,3,Hotel meeting room,J. Carter,Advisory board participation under signed contract; deliverables received.
+R022,1003000004,Dr. David Levin,Cardiology,2026-08-17,Meal,262.47,6,,Medical office,M. Patel,Lunch during in-office presentation on approved product label.
+R007,1003000007,Dr. Grace Adeyemi,Primary Care,2026-09-09,Meal,279.79,8,,Hospital conference room,S. Kim,Working lunch with clinic staff; reviewed patient support program materials.
+R017,1003000008,Dr. Hector Ruiz,Infectious Disease,2026-07-07,Meal,104.82,3,,Medical office,J. Carter,Lunch provided with presentation of new safety information.
+R021,1003000003,Dr. Carla Nguyen,Primary Care,2026-07-14,Consulting Fee,1200,,4,Hotel meeting room,S. Kim,Consulting on trial design under written agreement with documented need.
+R034,1003000003,Dr. Carla Nguyen,Primary Care,2026-08-29,Meal,343.43,8,,Hospital conference room,M. Patel,Lunch during in-office presentation on approved product label.
+R027,1003000008,Dr. Hector Ruiz,Infectious Disease,2026-08-27,Consulting Fee,600,,2,Hotel meeting room,J. Carter,Speaker program on approved indication; slides approved by medical/legal review.
+R048,1003000003,Dr. Carla Nguyen,Primary Care,2026-08-10,Meal,63.0,3,,Clinic office,J. Carter,Lunch during in-office presentation on approved product label.
+R003,1003000004,Dr. David Levin,Cardiology,2026-09-22,Educational Item,33.23,,,Clinic office,T. Brooks,Anatomical model for patient education.
+R038,1003000003,Dr. Carla Nguyen,Primary Care,2026-09-01,Gift,45.0,,,Clinic office,T. Brooks,Branded coffee mugs and pens for the office.
+R043,1003000008,Dr. Hector Ruiz,Infectious Disease,2026-08-28,Consulting Fee,1500.0,,5,Hotel meeting room,S. Kim,Discussed off-label use in pediatric patients and how to code it so insurance covers it.
+R037,1003000002,Dr. Ben Okafor,Infectious Disease,2026-07-22,Speaker Fee,6000.0,,2,Hotel meeting room,T. Brooks,Speaker program.
+R008,1003000002,Dr. Ben Okafor,Infectious Disease,2026-09-23,Meal,206.51,8,,Clinic office,M. Patel,Working lunch with clinic staff; reviewed patient support program materials.
+R026,1003000007,Dr. Grace Adeyemi,Primary Care,2026-09-08,Meal,184.91,7,,Medical office,M. Patel,Breakfast with care team during disease-state education session.
+R016,1003000007,Dr. Grace Adeyemi,Primary Care,2026-08-21,Consulting Fee,600,,2,Hotel meeting room,S. Kim,Speaker program on approved indication; slides approved by medical/legal review.
+R046,1003000003,Dr. Carla Nguyen,Primary Care,2026-08-07,Meal,61.0,3,,Clinic office,M. Patel,Lunch during in-office presentation on approved product label.
+R039,1003000005,Dr. Erin Shah,Pediatrics,2026-07-28,Educational Item,350.0,,,Clinic office,T. Brooks,Tablet for reviewing patient education videos.
+R005,1003000002,Dr. Ben Okafor,Infectious Disease,2026-08-18,Meal,163.53,4,,Medical office,J. Carter,Breakfast with care team during disease-state education session.
+R012,1003000005,Dr. Erin Shah,Pediatrics,2026-09-27,Educational Item,61.08,,,Clinic office,M. Patel,Anatomical model for patient education.
+R006,1003000001,Dr. Alicia Moreno,Pulmonology,2026-08-28,Educational Item,78.39,,,Clinic office,J. Carter,Anatomical model for patient education.
+R033,1003000006,Dr. Frank Ito,Pulmonology,2026-08-01,Meal,97.44,3,,Clinic office,M. Patel,Lunch provided with presentation of new safety information.
+R004,1003000005,Dr. Erin Shah,Pediatrics,2026-07-21,Meal,102.01,4,,Clinic office,T. Brooks,Breakfast with care team during disease-state education session.
