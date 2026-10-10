@@ -63,7 +63,7 @@ Run the tests with `pytest`.
 The synthetic dataset includes 10 planted issues plus a group of over-frequent meals.
 
 - **Rules only:** caught 7 of 10 planted issues. The 3 it missed are text-only risks (payment tied to prescribing, a quid pro quo request, and off-label/billing guidance), which have no numeric signal.
-- **Rules + AI:** _add your results after running with an API key._
+- **Rules + AI:** caught all 10 planted issues with no false alarms on the 40 routine records. The AI flagged all 3 text-only risks the rules missed and added context the rules couldn't see, such as spouse travel on a resort trip and a dinner with no presentation. It did not flag the over-FMV fee or the missing NPI, which have no signal in the note text; the rules caught both. This is why the tool uses both methods.
 
 ## Responsible AI design
 
